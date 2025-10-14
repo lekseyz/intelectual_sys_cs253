@@ -1,0 +1,105 @@
+A* algorithm:
+TestCase: 123456789afb0edc:
+no solution
+0.0056
+TestCase: f2345678a0be91cd:
+no solution
+0.003737
+TestCase: 123456789abcdef0:
+yay we've made it!!! with: 0
+0.009989
+TestCase: 1234067859acdebf:
+yay we've made it!!! with: 5
+0.014577
+TestCase: 5134207896acdebf:
+yay we've made it!!! with: 8
+0.029515
+TestCase: 16245a3709c8debf:
+yay we've made it!!! with: 10
+0.017633
+TestCase: 1723068459acdebf:
+yay we've made it!!! with: 13
+0.081604
+TestCase: 12345678a0be9fcd:
+yay we've made it!!! with: 19
+0.297913
+TestCase: 51247308a6be9fcd:
+yay we've made it!!! with: 29
+0.723506
+TestCase: f2345678a0be91dc:
+yay we've made it!!! with: 33
+22.7282
+TestCase: 75123804a6be9fcd:
+yay we've made it!!! with: 35
+3.94322
+TestCase: 75ab2c416d389f0e:
+yay we've made it!!! with: 45
+74.2669
+TestCase: 4582e1df79bca36:
+yay we've made it!!! with: 48
+25.7127
+TestCase: fe169b4c0a73d852:
+yay we've made it!!! with: 52
+2341.08
+TestCase: d79f2e8a45106c3b:
+yay we've made it!!! with: 55
+1479.11
+TestCase: dbe87a2c91f65034:
+yay we've made it!!! with: 58
+9988.93
+TestCase: bac0f478e19623d5:
+yay we've made it!!! with: 61
+74795.8
+IDA* algorithm:
+TestCase: 123456789afb0edc:
+no solution
+0.003797
+TestCase: f2345678a0be91cd:
+no solution
+0.006042
+TestCase: 123456789abcdef0:
+yay we've made it!!! with: 0
+0.01072
+TestCase: 1234067859acdebf:
+yay we've made it!!! with: 5
+0.010239
+TestCase: 5134207896acdebf:
+yay we've made it!!! with: 8
+0.016481
+TestCase: 16245a3709c8debf:
+yay we've made it!!! with: 10
+0.014207
+TestCase: 1723068459acdebf:
+yay we've made it!!! with: 13
+0.022723
+TestCase: 12345678a0be9fcd:
+yay we've made it!!! with: 21
+0.114797
+TestCase: 51247308a6be9fcd:
+yay we've made it!!! with: 29
+0.282513
+TestCase: f2345678a0be91dc:
+yay we've made it!!! with: 33
+11.6055
+TestCase: 75123804a6be9fcd:
+yay we've made it!!! with: 37
+0.881742
+TestCase: 75ab2c416d389f0e:
+yay we've made it!!! with: 45
+58.8293
+TestCase: 4582e1df79bca36:
+yay we've made it!!! with: 48
+2.79743
+TestCase: fe169b4c0a73d852:
+yay we've made it!!! with: 52
+1927.84
+TestCase: d79f2e8a45106c3b:
+yay we've made it!!! with: 55
+301.415
+TestCase: dbe87a2c91f65034:
+yay we've made it!!! with: 58
+1133.78
+TestCase: bac0f478e19623d5:
+yay we've made it!!! with: 61
+76554.1
+

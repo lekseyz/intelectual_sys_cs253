@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "hash_set": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "functional": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "string_view": "cpp",
+        "system_error": "cpp",
+        "cstdlib": "cpp",
+        "iostream": "cpp"
+    }
+}
