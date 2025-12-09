@@ -1,0 +1,179 @@
+R1, mood_tired, intellect_low, atmosphere_chill, 0.9
+R2, mood_tired, time_short, atmosphere_chill, 0.8
+R3, mood_energetic, company_friends, atmosphere_party, 0.95
+R4, mood_romantic, company_partner, atmosphere_date, 1.0
+R5, mood_curious, intellect_high, atmosphere_educational, 0.9
+R6, age_child, company_parents, atmosphere_family_safe, 1.0
+R7, mood_sad, preference_scary, atmosphere_tension, 0.7
+R8, mood_energetic, preference_funny, atmosphere_party, 0.8
+R9, company_kids, time_medium, atmosphere_family_safe, 0.9
+R10, company_alone, mood_curious, atmosphere_educational, 0.7
+R11, atmosphere_chill, preference_funny, genre_comedy, 0.8
+R12, atmosphere_chill, preference_scary, genre_horror, 0.9
+R13, atmosphere_party, time_medium, genre_comedy, 0.85
+R14, atmosphere_party, time_long, genre_action, 0.9
+R15, atmosphere_date, time_long, genre_drama, 0.8
+R16, atmosphere_educational, intellect_high, genre_documentary, 0.9
+R17, atmosphere_educational, preference_scary, genre_scifi, 0.7
+R18, atmosphere_family_safe, age_child, genre_animation, 1.0
+R19, atmosphere_tension, intellect_high, genre_scifi, 0.8
+R20, atmosphere_tension, preference_scary, genre_horror, 0.9
+R21, atmosphere_chill, time_long, genre_fantasy, 0.7
+R22, atmosphere_date, preference_funny, genre_comedy, 0.6
+R23, atmosphere_family_safe, time_short, genre_animation, 0.9
+R24, atmosphere_party, preference_scary, genre_horror, 0.5
+R25, mood_romantic, atmosphere_date, genre_drama, 0.95
+R26, genre_horror, company_friends, niche_slasher, 0.9
+R27, genre_horror, company_alone, niche_psychological, 0.85
+R28, genre_comedy, time_short, niche_sitcom, 0.8
+R29, genre_comedy, age_adult, niche_black_comedy, 0.9
+R30, genre_scifi, genre_action, niche_space_opera, 0.9
+R31, genre_scifi, intellect_high, niche_cyberpunk, 0.9
+R32, genre_drama, time_long, niche_biography, 0.8
+R33, genre_action, preference_funny, niche_superhero, 0.85
+R34, genre_animation, time_long, niche_classic_disney, 0.9
+R35, genre_animation, intellect_high, niche_anime, 0.85
+R36, genre_fantasy, time_long, niche_classic_disney, 0.7
+R37, genre_fantasy, intellect_high, niche_anime, 0.8
+R38, genre_documentary, time_long, niche_biography, 0.7
+R39, genre_drama, mood_romantic, niche_romance_classic, 0.95
+R40, genre_comedy, company_partner, niche_sitcom, 0.7
+R41, niche_slasher, age_adult, preference_scary, movie_scream, 0.95
+R42, niche_psychological, intellect_high, mood_curious, movie_shutter_island, 0.95
+R43, niche_black_comedy, age_adult, company_friends, movie_hangover, 0.9
+R44, niche_black_comedy, age_adult, intellect_high, movie_pulp_fiction, 0.95
+R45, niche_space_opera, time_long, intellect_low, movie_star_wars, 0.9
+R46, niche_cyberpunk, atmosphere_tension, movie_blade_runner, 0.85
+R47, niche_biography, intellect_high, time_long, movie_oppenheimer, 0.95
+R48, niche_superhero, mood_energetic, movie_avengers, 0.9
+R49, niche_classic_disney, mood_sad, movie_lion_king, 0.95
+R50, niche_anime, mood_curious, atmosphere_family_safe, movie_spirited_away, 0.95
+R51, niche_space_opera, time_long, intellect_high, movie_interstellar, 0.95
+R52, niche_romance_classic, time_long, mood_sad, movie_titanic, 0.95
+R53, niche_sitcom, atmosphere_family_safe, movie_home_alone, 0.85
+R54, niche_cyberpunk, intellect_high, preference_scary, movie_matrix, 0.9
+R55, niche_classic_disney, preference_funny, movie_shrek, 0.85
+R56, niche_romance_classic, company_partner, movie_notebook, 0.95
+R57, niche_space_opera, intellect_high, atmosphere_tension, movie_dune, 0.9
+R58, mood_sad, company_friends, atmosphere_chill, 0.8
+R59, mood_curious, company_alone, atmosphere_tension, 0.6
+R60, company_partner, preference_funny, atmosphere_chill, 0.7
+R61, time_short, preference_funny, atmosphere_party, 0.6
+R62, intellect_low, company_friends, atmosphere_party, 0.8
+R63, mood_energetic, time_long, atmosphere_educational, 0.5
+R64, atmosphere_chill, age_adult, genre_drama, 0.7
+R65, atmosphere_party, age_child, genre_animation, 0.9
+R66, atmosphere_tension, company_partner, genre_horror, 0.6
+R67, atmosphere_date, preference_scary, genre_horror, 0.4
+R68, atmosphere_family_safe, preference_funny, genre_comedy, 0.9
+R69, genre_action, company_alone, niche_cyberpunk, 0.7
+R70, genre_action, company_friends, niche_superhero, 0.9
+R71, genre_drama, mood_sad, niche_biography, 0.7
+R72, genre_scifi, time_short, niche_space_opera, 0.6
+R73, genre_fantasy, company_kids, niche_classic_disney, 0.9
+R74, niche_slasher, time_medium, company_friends, movie_scream, 0.85
+R75, niche_psychological, atmosphere_tension, movie_shutter_island, 0.9
+R76, niche_sitcom, company_kids, movie_home_alone, 0.9
+R77, niche_black_comedy, preference_funny, age_adult, movie_hangover, 0.85
+R78, niche_space_opera, preference_scary, time_long, movie_dune, 0.85
+R79, niche_cyberpunk, time_long, mood_sad, movie_blade_runner, 0.8
+R80, niche_biography, intellect_high, atmosphere_educational, movie_oppenheimer, 0.9
+R81, niche_superhero, time_medium, company_friends, movie_avengers, 0.85
+R82, niche_anime, company_friends, movie_spirited_away, 0.8
+R83, genre_romance, company_partner, atmosphere_date, niche_romance_classic, 0.95
+R84, genre_drama, intellect_high, movie_interstellar, 0.85
+R85, genre_action, niche_cyberpunk, movie_matrix, 0.8
+R86, genre_animation, preference_funny, movie_shrek, 0.9
+R87, genre_horror, company_partner, movie_scream, 0.6
+R88, genre_scifi, time_long, movie_dune, 0.8
+R89, genre_comedy, age_adult, company_friends, movie_hangover, 0.9
+R90, genre_fantasy, atmosphere_family_safe, movie_lion_king, 0.85
+R91, mood_tired, company_alone, atmosphere_chill, 0.85
+R92, mood_energetic, intellect_high, atmosphere_educational, 0.85
+R93, atmosphere_chill, intellect_high, genre_scifi, 0.6
+R94, atmosphere_date, preference_funny, genre_romance, 0.8
+R95, niche_romance_classic, time_long, mood_sad, movie_titanic, 0.9
+R96, niche_sitcom, age_child, movie_home_alone, 0.95
+R97, niche_space_opera, time_long, company_parents, movie_star_wars, 0.9
+R98, niche_classic_disney, preference_funny, company_friends, movie_shrek, 0.8
+R99, niche_psychological, time_long, atmosphere_tension, movie_shutter_island, 0.85
+R100, genre_action, time_long, niche_superhero, 0.8
+R101, genre_documentary, intellect_low, niche_biography, 0.5
+R102, genre_horror, time_short, niche_slasher, 0.7
+R103, atmosphere_party, age_adult, genre_comedy, 0.8
+R104, mood_sad, company_partner, atmosphere_date, 0.6
+R105, genre_fantasy, company_friends, niche_anime, 0.7
+R106, niche_anime, preference_scary, movie_spirited_away, 0.6
+R107, niche_cyberpunk, preference_funny, movie_matrix, 0.5
+R108, genre_drama, age_adult, intellect_high, niche_biography, 0.85
+R109, genre_animation, company_kids, movie_lion_king, 0.95
+R110, genre_scifi, company_alone, intellect_high, movie_interstellar, 0.9
+R111, genre_action, preference_scary, movie_blade_runner, 0.7
+R112, genre_comedy, company_parents, movie_home_alone, 0.8
+R113, genre_romance, mood_sad, time_medium, niche_romance_classic, 0.85
+R114, genre_horror, mood_energetic, niche_slasher, 0.8
+R115, niche_biography, preference_funny, movie_pulp_fiction, 0.6
+R116, atmosphere_chill, mood_tired, 0.5
+R117, genre_comedy, mood_energetic, 0.5
+R118, genre_drama, mood_sad, 0.5
+R119, atmosphere_tension, mood_curious, 0.5
+R120, genre_action, mood_energetic, 0.5
+R121, genre_horror, atmosphere_tension, 0.7
+R122, niche_psychological, intellect_high, 0.2
+R123, atmosphere_tension, time_short, mood_energetic, 0.4
+R124, movie_shutter_island, mood_curious, 0.5
+R125, genre_comedy, mood_energetic, 0.6
+R126, niche_slasher, atmosphere_party, 0.3
+R127, atmosphere_chill, time_long, mood_relaxed, 0.6
+R128, mood_relaxed, intellect_low, 0.9
+R130, mood_sad, intellect_high, genre_drama, 0.9
+R131, mood_sad, company_alone, genre_drama, 0.8
+R132, genre_drama, intellect_high, niche_psychological, 0.9
+R133, genre_drama, time_medium, niche_psychological, 0.8
+R134, niche_psychological, company_alone, movie_shutter_island, 0.9
+R135, niche_psychological, time_medium, movie_shutter_island, 0.85
+R136, intellect_high, time_medium, genre_scifi, 0.7
+R137, genre_scifi, mood_sad, niche_cyberpunk, 0.8
+R138, niche_cyberpunk, time_medium, movie_blade_runner, 0.8
+R139, genre_drama, time_medium, niche_romance_classic, 0.7
+R140, mood_sad, intellect_high, atmosphere_tension, 0.6
+R150, preference_none, preference_scary, 0.4
+R151, preference_none, preference_funny, 0.4
+R152, preference_none, preference_action, 0.4
+R153, preference_none, preference_scifi, 0.4
+R154, preference_none, preference_serious, 0.4
+R155, preference_action, atmosphere_party, genre_action, 0.9
+R156, preference_scifi, intellect_high, genre_scifi, 0.9
+R157, preference_serious, mood_sad, genre_drama, 0.9
+R158, preference_action, time_short, genre_action, 0.7
+R159, preference_scifi, time_long, genre_scifi, 0.8
+R160, preference_serious, time_long, genre_drama, 0.8
+R161, genre_action, age_adult, niche_gangster, 0.9
+R162, niche_gangster, company_friends, movie_pulp_fiction, 0.95
+R163, niche_gangster, preference_funny, movie_snatch, 0.9
+R164, genre_action, time_medium, niche_action_thriller, 0.85
+R165, niche_action_thriller, preference_none, movie_john_wick, 0.8
+R166, niche_action_thriller, company_alone, movie_john_wick, 0.9
+R167, genre_drama, intellect_high, niche_detective, 0.9
+R168, niche_detective, time_medium, movie_sherlock_holmes, 0.9
+R169, niche_detective, preference_scary, movie_zodiac, 0.9
+R170, genre_comedy, intellect_high, niche_aesthetic_comedy, 0.9
+R171, niche_aesthetic_comedy, company_alone, movie_grand_budapest, 0.95
+R200, time_long, time_medium, 0.6
+R201, time_medium, time_short, 0.6
+R202, genre_horror, time_short, niche_short_horror, 0.95
+R203, niche_short_horror, preference_scary, movie_quiet_place, 0.9
+R204, niche_short_horror, preference_funny, movie_zombieland, 0.9
+R205, genre_horror, intellect_high, niche_elevated_horror, 0.9
+R206, niche_elevated_horror, time_medium, movie_get_out, 0.9
+R207, niche_elevated_horror, time_long, movie_midsommar, 0.9
+R208, intellect_low, niche_slasher, 0.8
+R209, intellect_low, time_short, genre_comedy, 0.7
+R210, niche_sitcom, time_short, movie_friends_episodes, 0.9
+R211, genre_scifi, time_short, niche_scifi_action, 0.8
+R212, niche_scifi_action, time_short, movie_district_9, 0.9
+R213, niche_slasher, time_short, movie_chucky, 0.85
+R214, movie_interstellar, time_short, 0.0
+R215, movie_dune, time_short, 0.0
+R216, movie_oppenheimer, time_short, 0.0
+R217, movie_titanic, time_short, 0.0
